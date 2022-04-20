@@ -1,1 +1,12 @@
 every time you open git desktop you should hit fetch origin to see if you have anything to pull from origin
+
+git will tell you if you're trying to push when you haven't fetched (pulled) everything 
+
+git will tell you if there's file conflict (2+ people editing same file) 
+- good rule of thumb is to not work on same file at same time, know what partners are working in  
+- if you really need to do so you can use branches 
+- best practice is to each have your own branch
+- however branches have to be merged eventually 
+
+preventing conflict in gamemaker
+- ex making own versions of sprites, making separate rooms to test objects in 
