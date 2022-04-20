@@ -1,1 +1,1 @@
-test
+every time you open git desktop you should hit fetch origin to see if you have anything to pull from origin
